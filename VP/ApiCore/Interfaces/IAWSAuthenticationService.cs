@@ -1,7 +1,9 @@
-﻿namespace ApiCore.Interfaces
+﻿using ApiCore.Entities;
+
+namespace ApiCore.Interfaces
 {
     public interface IAWSAuthenticationService
     {
-        bool IsAutenticated(string email, string awsAccessKeyId, string awsAccessKey);
+        bool IsAutenticated(AwsSignInfo signInfo);
     }
 }

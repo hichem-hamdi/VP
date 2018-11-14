@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hhamdi-ext\\Documents\\visual studio 2017\\Projects\\VP\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\hhamdi-ext\\Documents\\GitHub\\VP\\VP\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\hhamdi-ext\\Documents\\visual studio 2017\\Projects\\VP\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\hhamdi-ext\\Documents\\GitHub\\VP\\VP\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\hhamdi-ext\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hhamdi-ext\\Documents\\visual studio 2017\\Projects\\VP\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\hhamdi-ext\\Documents\\GitHub\\VP\\VP\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -727,8 +727,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\hhamdi-ext\\Documents\\visual studio 2017\\Projects\\VP\\ApiCore\\ApiCore.csproj": {
-              "projectPath": "C:\\Users\\hhamdi-ext\\Documents\\visual studio 2017\\Projects\\VP\\ApiCore\\ApiCore.csproj"
+            "C:\\Users\\hhamdi-ext\\Documents\\GitHub\\VP\\VP\\ApiCore\\ApiCore.csproj": {
+              "projectPath": "C:\\Users\\hhamdi-ext\\Documents\\GitHub\\VP\\VP\\ApiCore\\ApiCore.csproj"
             }
           }
         }

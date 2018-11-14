@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\hhamdi-ext\\documents\\visual studio 2017\\Projects\\VP\\ApiCore\\ApiCore.csproj",
+      "projectUniqueName": "C:\\Users\\hhamdi-ext\\Documents\\GitHub\\VP\\VP\\ApiCore\\ApiCore.csproj",
       "projectName": "ApiCore",
-      "projectPath": "c:\\users\\hhamdi-ext\\documents\\visual studio 2017\\Projects\\VP\\ApiCore\\ApiCore.csproj",
+      "projectPath": "C:\\Users\\hhamdi-ext\\Documents\\GitHub\\VP\\VP\\ApiCore\\ApiCore.csproj",
       "packagesPath": "C:\\Users\\hhamdi-ext\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\hhamdi-ext\\documents\\visual studio 2017\\Projects\\VP\\ApiCore\\obj\\",
+      "outputPath": "C:\\Users\\hhamdi-ext\\Documents\\GitHub\\VP\\VP\\ApiCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

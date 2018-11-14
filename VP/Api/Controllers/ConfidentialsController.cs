@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using ApiCore.Entities;
 using ApiCore.Interfaces;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Api.Controllers
@@ -24,8 +20,11 @@ namespace Api.Controllers
         {
             var awsAccessKeyId = "aws secret key id";
             var awsAccessKey = "aws secret key";
+            var signInfo = new AwsSignInfo(email,
+                                           awsAccessKeyId,
+                                           awsAccessKey);
 
-            var isAuthenticated =  _aWSAuthenticationService.IsAutenticated(email, awsAccessKeyId, awsAccessKey);
+            var isAuthenticated =  _aWSAuthenticationService.IsAutenticated(signInfo);
 
             return Json(isAuthenticated);
         }

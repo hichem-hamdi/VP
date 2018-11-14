@@ -1,4 +1,5 @@
-﻿using ApiCore.Interfaces;
+﻿using ApiCore.Entities;
+using ApiCore.Interfaces;
 using System.Collections.Generic;
 
 namespace ApiCore.Services
@@ -14,12 +15,12 @@ namespace ApiCore.Services
             _aWSSignService = aWSSignService;
         }
 
-        public bool IsAutenticated(string email, string awsAccessKeyId, string awsAccessKey)
+        public bool IsAutenticated(AwsSignInfo signInfo)
         {
-            string userSign = GetSign(email, awsAccessKeyId, awsAccessKey);
+            string userSign = GetSign(signInfo.Email, signInfo.AwsAccessKeyId, signInfo.AwsAccessKey);
 
-            var savedAccessKey = _aWSAuthenticationRepository.GetSecretAccessKeyyAccessKeyId(awsAccessKeyId);
-            var originalSign = GetSign(email, awsAccessKeyId, savedAccessKey);
+            var savedAccessKey = _aWSAuthenticationRepository.GetSecretAccessKeyyAccessKeyId(signInfo.AwsAccessKeyId);
+            var originalSign = GetSign(signInfo.Email, signInfo.AwsAccessKeyId, savedAccessKey);
 
             return userSign == originalSign;
         }

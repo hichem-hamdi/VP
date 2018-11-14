@@ -20,4 +20,5 @@ Data is hard coded in the namespace "Infrastructure.Data" you can use this data 
  Swagger for the API UI test
  CQS (Command–query separation) pattern
  SOLID patterns
+ Unit Test : Xunit, Moq
  
