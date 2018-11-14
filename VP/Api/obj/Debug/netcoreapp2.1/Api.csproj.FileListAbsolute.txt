@@ -17,3 +17,22 @@ c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Api\bin\Debug\netco
 c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Api\bin\Debug\netcoreapp2.1\ApiCore.pdb
 c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Api\bin\Debug\netcoreapp2.1\Infrastructure.pdb
 c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\bin\Debug\netcoreapp2.1\ApiCore.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\bin\Debug\netcoreapp2.1\Infrastructure.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\bin\Debug\netcoreapp2.1\ApiCore.pdb
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete

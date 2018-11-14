@@ -10,3 +10,15 @@ c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\obj\
 c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CopyComplete
 c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.dll
 c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.pdb
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.deps.json
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Infrastructure\bin\Debug\netcoreapp2.1\ApiCore.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Infrastructure\bin\Debug\netcoreapp2.1\ApiCore.pdb
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfo.cs
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CopyComplete
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.pdb

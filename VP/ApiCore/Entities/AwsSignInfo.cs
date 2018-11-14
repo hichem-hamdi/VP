@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ApiCore.Entities
+﻿namespace ApiCore.Entities
 {
     public class AwsSignInfo
     {

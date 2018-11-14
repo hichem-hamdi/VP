@@ -7,3 +7,12 @@ c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\ApiCore\obj\Debug\n
 c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.AssemblyInfo.cs
 c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.dll
 c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.pdb
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.deps.json
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.pdb
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.csprojAssemblyReference.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.csproj.CoreCompileInputs.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.AssemblyInfoInputs.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.AssemblyInfo.cs
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.pdb

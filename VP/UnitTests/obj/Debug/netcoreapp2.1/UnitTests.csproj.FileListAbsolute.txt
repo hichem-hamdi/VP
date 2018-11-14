@@ -15,3 +15,25 @@ c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\obj\Debug
 c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.pdb
 c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
 c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.deps.json
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.json
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.dev.json
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.pdb
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\ApiCore.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\ApiCore.pdb
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csprojAssemblyReference.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfoInputs.cache
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.cs
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CopyComplete
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\Infrastructure.dll
+C:\Users\hhamdi-ext\Documents\GitHub\VP\VP\UnitTests\bin\Debug\netcoreapp2.1\Infrastructure.pdb
