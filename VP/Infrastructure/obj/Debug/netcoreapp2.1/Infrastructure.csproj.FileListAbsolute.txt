@@ -1,0 +1,12 @@
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.deps.json
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.dll
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.pdb
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\bin\Debug\netcoreapp2.1\ApiCore.dll
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\bin\Debug\netcoreapp2.1\ApiCore.pdb
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csprojAssemblyReference.cache
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CoreCompileInputs.cache
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfoInputs.cache
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfo.cs
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CopyComplete
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.dll
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.pdb

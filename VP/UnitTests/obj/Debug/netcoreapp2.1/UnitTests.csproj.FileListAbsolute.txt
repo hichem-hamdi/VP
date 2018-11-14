@@ -1,0 +1,17 @@
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.deps.json
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.json
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.dev.json
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.dll
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\bin\Debug\netcoreapp2.1\ApiCore.dll
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\bin\Debug\netcoreapp2.1\ApiCore.pdb
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csprojAssemblyReference.cache
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CoreCompileInputs.cache
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfoInputs.cache
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.cs
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CopyComplete
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.pdb
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb

@@ -1,0 +1,9 @@
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.deps.json
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.dll
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\ApiCore\bin\Debug\netcoreapp2.1\ApiCore.pdb
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.csprojAssemblyReference.cache
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.csproj.CoreCompileInputs.cache
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.AssemblyInfoInputs.cache
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.AssemblyInfo.cs
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.dll
+c:\users\hhamdi-ext\documents\visual studio 2017\Projects\VP\ApiCore\obj\Debug\netcoreapp2.1\ApiCore.pdb
